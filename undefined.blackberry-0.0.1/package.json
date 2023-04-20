@@ -1,0 +1,34 @@
+{
+	"name": "blackberry",
+	"displayName": "Blackberry Theme",
+	"description": "My first theme",
+	"author": {
+		"name": "Federico Martinetti"
+	},
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.65.0"
+	},
+	"keywords": [
+		"Dark Theme",
+		"purple",
+		"blackberry",
+		"pastel"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Blackberry",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Blackberry-color-theme.json"
+			}
+		]
+	},
+	"publisher": "undefined_publisher",
+	"__metadata": {
+		"installedTimestamp": 1647745477044
+	}
+}
